@@ -6,4 +6,6 @@ This is a password generator, created with HTML, CSS, and JavaScript. This appli
 
 ## Links & Screenshot
 
+[!Github Repo](https://github.com/Rdhoward13/Password-generator)\
+[!Live URL](https://rdhoward13.github.io/Password-generator/)
 <img src="./assets/pwGen.png" />
